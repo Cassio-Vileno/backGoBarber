@@ -188,6 +188,6 @@ This project was developed using:
   - The user cannot schedule services with himself;
 
 ---
-### **Developer Tomás Santos**
+### **Developer Cassio Vileno**
 #### Github: https://github.com/Cassio-Vileno
 #### LinkedIn: https://www.linkedin.com/in/cassio-vileno-106b771a1/
