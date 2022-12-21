@@ -33,10 +33,10 @@ This project was developed using:
 ```bash
 
     # Clone the repository
-    $ git clone https://github.com/TomasSantosz/gobarber_backend_api.git
+    $ git clone https://github.com/Cassio-Vileno/backGoBarber.git
 
     # Enter directory
-    $ cd gobarber_backend_api
+    $ cd backGoBarber
 
     # Install dependencies
     $ yarn
@@ -85,9 +85,9 @@ This project was developed using:
   - **Method http:** POST
   - **Text:** JSON
   - **Params JSON:** {
-      "name": "tomas",
+      "name": "Cassio",
       "email" : "email@email.com",
-      "password": "tomas"
+      "password": "cassio"
     }
 
   ### Sessions
@@ -96,7 +96,7 @@ This project was developed using:
   - **Method http:** POST
   - **Params JSON:** {
     "email" : "email@email.com",
-    "password": "tomas"
+    "password": "cassio"
   }
 
   ### Appointment
