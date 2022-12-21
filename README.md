@@ -1,10 +1,5 @@
 # GoBarber Backend api
 
-<h1 align="center">
-    <img src="./tmp/gobarber_background2.png">
-</h1>
-
-
 ## 📑About
 This project is one application created in **Bootcamp GoStack**,for the purpose of recreating a **barber shop** application.
 
